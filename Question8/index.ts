@@ -1,0 +1,7 @@
+// here i am storing favourite number in a variable 
+
+var favNumber : number  = 5;
+
+// here i am printing that number in the console
+
+console.log(`printing my favourite number and number is "${favNumber}"`);
